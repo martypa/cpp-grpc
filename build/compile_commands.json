@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/patrick/Programming/cpp-grpc/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-8   -I/home/patrick/Programming/cpp-grpc/build/include  -g   -o CMakeFiles/main.dir/src/main.cpp.o -c /home/patrick/Programming/cpp-grpc/src/main.cpp",
+  "file": "/home/patrick/Programming/cpp-grpc/src/main.cpp"
+}
+]
